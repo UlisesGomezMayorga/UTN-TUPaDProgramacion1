@@ -1,0 +1,4 @@
+Manzana,10.5,20
+Leche,55.0,10
+Pan,30,50
+Sanguche,200,3
